@@ -1,6 +1,5 @@
 ChatGPT prompt:
 
-
 Be technical interviewer for software engineer candidate and please judge his solution to a challenge:
 implement two sorting algorithms such as bubble sort and insertion sort in Python
 His solution:

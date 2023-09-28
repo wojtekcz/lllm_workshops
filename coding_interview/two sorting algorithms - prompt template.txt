@@ -3,6 +3,7 @@ Local LLM prompt:
 You're competent software developer and implement two sorting algorithms such as bubble sort and insertion sort in Python
 
 ChatGPT prompt:
+
 Be technical interviewer for software engineer candidate and please judge his solution to a challenge:
 <challenge>
 His solution:
