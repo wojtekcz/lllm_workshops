@@ -1,0 +1,32 @@
+generate plantuml class diagram with example classes of User, Permission, Object and Ticket
+
+generate plantuml class diagram for python code:
+class User:
+    Name: str
+    Email: str
+    PhoneNumber: str
+    Address: str
+    
+class Train:
+    TrainNumber: str
+    DepartureStation: str
+    ArrivalStation: str
+    DepartureTime: datetime
+    ArrivalTime: datetime
+    
+class Ticket:
+    TicketNumber: str
+    TrainNumber: str
+    DepartureStation: str
+    ArrivalStation: str
+    DepartureTime: datetime
+    ArrivalTime: datetime
+    SeatNumber: int
+    PassengerName: str
+    Status: str # (cancelled, issued)
+    
+class Payment:
+    TicketNumber: str
+    AmountPaid: float
+    PaymentMethod: str # (credit, cash, card)
+    Timestamp: datetime
